@@ -12,20 +12,3 @@ h2 {
     color: yellow;
     font-size: 10px;
   }
-
-  .important {
-    font-weight: bold;
-  }
-
-  .contents > p {
-    font-size: 18px;
-    color: red;
-  }
-
-h2{
-  color: red;
-}
-
-
-p.sample img{width: 300px; height: auto;}
-p:hover{opacity: 0.7;}
